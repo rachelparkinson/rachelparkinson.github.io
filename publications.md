@@ -51,6 +51,6 @@ title: Publications
 ---
 
 <p class="message">
-  For a complete list of publications, see <a href="https://scholar.google.com">Google Scholar profile</a> or <a href="https://orcid.org">ORCID</a>.
+  For a complete list of publications, see <a href="https://scholar.google.com/citations?user=bL1Wjw8AAAAJ&hl=en">Google Scholar profile</a>.
 </p>
 
