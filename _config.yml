@@ -1,6 +1,6 @@
 # Setup
-title: Rachel Parkinson Lab
-tagline: Research and Publications
+title: Rachel Parkinson's Lab
+tagline: Quantifying the impacts of environmental change on insect sensory ecology
 url: https://rachelparkinson.github.io
 paginate: 5
 baseurl: ""
@@ -40,7 +40,7 @@ sass:
 author:
   name: Rachel Parkinson
   url: https://rachelparkinson.github.io
-  email: your.email@domain.com
+  email: r4chelp@gmail.com
 
 # Custom vars
 version: 1.3.0
