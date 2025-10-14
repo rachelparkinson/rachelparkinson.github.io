@@ -1,0 +1,28 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+
+# Ruby
+*.gem
+Gemfile.lock
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Editor config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
